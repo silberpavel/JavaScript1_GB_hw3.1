@@ -23,8 +23,18 @@ window.onload = function () {
         }
     }
 
+
     // 3. Выведите значение option с value=2
 
+    var allOpt = document.getElementById('myselect');
+    console.log(`3. значение option с value=2 => ` + allOpt["1"].text);
+
+
+    // 4. Обернуть текст во втором li тегом b: 
+  
+    // In CSS
+
+    // 5. Извлеките последний li из предыдущего примера.
 
 
 

@@ -1,0 +1,11 @@
+/* 4. Обернуть текст во втором li тегом b: */
+ul li:nth-child(2){
+    font-weight:bold;
+    color: red;
+  }
+
+/* 5. Извлеките последний li из предыдущего примера. */
+ul li:last-child{
+    font-weight:bold;
+    color: blue;
+  }
